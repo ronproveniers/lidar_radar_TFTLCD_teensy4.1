@@ -106,7 +106,7 @@ add the file : TFTeSPI_setup_teenst_ili9488.h in this map with the following con
  used arduino ide 1.8.19
  teensyduino 1.56
 
-
+ don't FORGET this is still under development!!!!!!
  Good Luck
  
 */
